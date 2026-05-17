@@ -235,3 +235,30 @@ Student Management System - Educational Project
 ## Support
 
 For support, please create an issue in the repository.
+
+## Screenshots
+
+### Home Page
+![Home](home.png)
+
+### Add Student Page
+![Add Student](addstudent.png)
+
+### AWS EC2 Deployment
+![EC2](ec2.png)
+
+### PM2 Process Manager
+![PM2](pm2.png)
+
+### AWS Terminal Deployment
+![Terminal](awsterminal.png)
+<img width="1920" height="1080" alt="addstudent" src="https://github.com/user-attachments/assets/b5f6647f-002a-47bc-84a0-67eec30a9a02" />
+<img width="1920" height="1080" alt="ec2" src="https://github.com/user-attachments/assets/d13d2f02-ae74-4ff5-85e7-36d062751775" />
+<img width="1920" height="1080" alt="home" src="https://github.com/user-attachments/assets/59ef8a5a-c784-4907-a974-ca78b2d97acb" />
+<img width="1920" height="1080" alt="pm2" src="https://github.com/user-attachments/assets/ae828ea1-6329-4ff9-8925-c115c216f409" />
+<img width="1920" height="1080" alt="awsterminal" src="https://github.com/user-attachments/assets/5b4fe7d1-0903-4080-9a14-e4b546402ae2" />
+
+
+
+
+
